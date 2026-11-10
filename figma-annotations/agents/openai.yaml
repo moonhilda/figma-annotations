@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma Annotations"
+  short_description: "Annotate Figma changes from historical snapshots"
+  default_prompt: "Use $figma-annotations to compare these Figma frames with the specified baseline and add numbered Old/New handoff annotations."
